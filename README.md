@@ -3,7 +3,7 @@ Built a Wearable Fall Detection and health monitoring device using Using STM32F1
 ## Fall detection sensor:
 Implement MPU6050 to detect any movement anomalies and alert on posture.
 ## Interactive module:
-Give the user regular alerts on medications or idle timings.
+Give the user regular alerts on medications or idle timings. \n
 Allow IoT connectivity for quality of life.
 Detect any anomalies in movements/vital signs.
 ## Health monitoring:
